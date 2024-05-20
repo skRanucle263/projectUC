@@ -1,0 +1,30 @@
+{
+  "name": "projectuc",
+  "version": "1.0.0",
+  "description": "backendAPIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skRanucle263/projectUC.git"
+  },
+  "keywords": [
+    "B2C",
+    "and",
+    "B2B"
+  ],
+  "author": "Soham Kothari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skRanucle263/projectUC/issues"
+  },
+  "homepage": "https://github.com/skRanucle263/projectUC#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
